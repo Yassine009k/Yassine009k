@@ -1,6 +1,6 @@
 # Hi 👋, I'm RAFYQ Yassine
 
-### Second-Year Student at CMC Nouasseur | Back-End Developer | Full-Stack Desktop Developer
+### Second-Year Student at CMC Nouasseur | Back-End Developer 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Yassine009k&label=Profile+views&color=8a2be2&style=flat-square" alt="Yassine009k" /> 
