@@ -1,6 +1,6 @@
 # Hi 👋, I'm RAFYQ Yassine
 
-### Full-Stack Web Developer & Cybersecurity Enthusiast
+### Full-Stack Web Developer 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Yassine009k&label=Profile+views&color=8a2be2&style=flat-square" alt="Yassine009k" /> 
@@ -46,15 +46,4 @@
 
 </p>
 
-<h3 align="left">GitHub Statistics:</h3>
 
-<!-- Main Stats & Top Languages (Side by Side) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yassine009k&show_icons=true&theme=radial&locale=en" alt="Yassine009k Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassine009k&show_icons=true&locale=en&layout=compact&theme=radial" alt="Yassine009k Top Languages" width="48%" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassine009k&theme=radial" alt="Yassine009k Streak" />
-</p>
