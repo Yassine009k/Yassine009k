@@ -6,12 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Yassine009k&label=Profile+views&color=8a2be2&style=flat-square" alt="Yassine009k" /> 
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yassine009k&theme=radial&no-bg=true&margin-w=15" alt="Yassine009k Trophies" />
-  </a> 
-</p>
 
 - 🌱 I’m currently learning **Advanced Node.js/NestJS, DevOps basics (Docker & Linux administration)**
 - 👯 I’m looking to collaborate on **Open-source web development projects, or Laravel/React applications**
